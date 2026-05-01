@@ -13,24 +13,6 @@ A simple, lightweight, and responsive **Expense Tracker** that allows users to l
 🌐 Persistent Data using LocalStorage.
 🎨 Clean, Responsive UI with CSS.
 
-# File structure
-
-/expense-tracker/
-│
-├── index.html
-├── login.html
-├── signup.html
-├── script.js
-├── auth.js
-├── style.css
-├── money.webp
-│
-└── screenshots/
-    ├── login-page.png
-    ├── signup-page.png
-    ├── dashboard.png
-    └── add-transaction.png
-
 
 ## 🧠 Technologies Used
 
